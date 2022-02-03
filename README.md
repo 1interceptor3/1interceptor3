@@ -1,9 +1,11 @@
-<!-- <h1 align="center">Hi there, I'm Ivan <img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" height="32"></h1>
+<h1 align="center">Hi there, I'm Ivan <img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" height="32"></h1>
 <h3 align="center">Project manager student, network engineer, Python and JS developer</h3>
--->
-### Hi, there
+
+<h5>Languages, tools, frameworks</h5>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
