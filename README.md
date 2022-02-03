@@ -1,3 +1,4 @@
+<h1 align="center">Hi there, I'm Ivan <img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" height="32"></h1>
 ### Hi there 👋
 
 <!--
