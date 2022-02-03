@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ivan <img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" height="32"></h1>
-### Hi there 👋
+<h3 align="center">Project manager student, network engineer, Python and JS developer</h3>
 
 <!--
 **1interceptor3/1interceptor3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
