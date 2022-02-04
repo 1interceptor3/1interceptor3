@@ -19,22 +19,29 @@
  <img src="https://www.codewars.com/users/1interceptor3/badges/large">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 30 mins        ███████████████░░░░░░░░░░   59.54% 
+JavaScript               55 mins             █████████░░░░░░░░░░░░░░░░   36.41% 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.63% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      1 hr 20 mins        █████████████░░░░░░░░░░░░   52.88% 
+PyCharm                  1 hr 11 mins        ███████████░░░░░░░░░░░░░░   47.12%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 20 mins        █████████████░░░░░░░░░░░░   52.88% 
+Mac                      1 hr 6 mins         ███████████░░░░░░░░░░░░░░   43.88% 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
 
 
- Last Updated on 04/02/2022 06:07:29 UTC
+ Last Updated on 04/02/2022 18:39:37 UTC
 <!--END_SECTION:waka-->
