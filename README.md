@@ -19,7 +19,7 @@
  <img src="https://www.codewars.com/users/1interceptor3/badges/large">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2032%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,5 +36,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/02/2022 18:45:50 UTC
+ Last Updated on 04/02/2022 06:07:29 UTC
 <!--END_SECTION:waka-->
