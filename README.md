@@ -17,6 +17,8 @@
 <img src="ttps://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
  </p>
  <img src="https://www.codewars.com/users/1interceptor3/badges/large">
+ 
+ [![Volkov Ivan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18140559&layout=compact&theme=dark)](https://stackoverflow.com/users/18140559/volkov-ivan)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2042%20mins-blue)
