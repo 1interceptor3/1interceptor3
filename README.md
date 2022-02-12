@@ -21,8 +21,6 @@
  [![Volkov Ivan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18140559&layout=compact&theme=dark)](https://stackoverflow.com/users/18140559/volkov-ivan)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2045%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -45,5 +43,5 @@ Linux                    2 hrs 34 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 11/02/2022 18:44:51 UTC
+ Last Updated on 12/02/2022 18:44:03 UTC
 <!--END_SECTION:waka-->
