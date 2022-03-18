@@ -25,17 +25,16 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     58 mins             ██████████████░░░░░░░░░░░   56.12% 
-Python                   45 mins             ███████████░░░░░░░░░░░░░░   43.88%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 17/03/2022 18:47:04 UTC
+ Last Updated on 18/03/2022 18:47:17 UTC
 <!--END_SECTION:waka-->
