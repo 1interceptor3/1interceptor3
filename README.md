@@ -25,16 +25,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    21 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      21 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    21 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/03/2022 18:48:24 UTC
+ Last Updated on 31/03/2022 18:48:17 UTC
 <!--END_SECTION:waka-->
